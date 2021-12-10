@@ -1,0 +1,22 @@
+.btnThem {
+  background-color: #e34230;
+  color: white;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+.btnUpdate,
+.btnDelete,
+.btnThem1,
+.btnThem2 {
+  background-color: #e34230;
+  color: white;
+  justify-content: center;
+  text-align: center;
+}
+
+.form-control {
+  margin: 15px 0;
+  font-size: 18px;
+}

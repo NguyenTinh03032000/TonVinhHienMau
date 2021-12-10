@@ -1,0 +1,16 @@
+body > .container-fluid {
+  background-image: url("nen1.png");
+  height: 800px;
+}
+
+.anhnen {
+  width: 40%;
+  margin: auto;
+  display: flex;
+}
+
+.btnUpdate{
+  margin: auto;
+    display: block;
+}
+}

@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  color: #e34230;
+}
+
+.btnUpdate {
+  margin: auto;
+  display: flex;
+}
+
+.nav-item > .nav-link {
+  background-color: #e34230;
+  color: white;
+}

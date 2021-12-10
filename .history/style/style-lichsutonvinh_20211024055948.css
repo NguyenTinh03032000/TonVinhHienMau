@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+  color: #e34230;
+}
+
+.btnUpdate {
+  margin: auto;
+  display: flex;
+}

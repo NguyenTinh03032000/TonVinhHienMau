@@ -1,0 +1,16 @@
+.btnThem {
+  background-color: #e34230;
+  color: white;
+  justify-content: center;
+  width: 250px;
+  text-align: center;
+}
+
+.btnUpdate,
+.btnDelete {
+  background-color: #e34230;
+  color: white;
+  justify-content: center;
+  width: 250px;
+  text-align: center;
+}

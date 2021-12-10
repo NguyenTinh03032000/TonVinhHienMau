@@ -1,0 +1,60 @@
+.col-sm-7 > h5 {
+  text-indent: 5%;
+  text-align: justify;
+}
+
+.col-sm-7 > div > h5 {
+  text-indent: 5%;
+  text-align: justify;
+}
+
+.card-body > h5 {
+  text-indent: 5%;
+  text-align: justify;
+}
+
+.card-body > div > h5 {
+  text-indent: 5%;
+  text-align: justify;
+}
+
+.card-body > div > h5 > div > h5 {
+  text-indent: 5%;
+  text-align: justify;
+}
+
+.jumbotron {
+  background-color: #e34230;
+  display: flex;
+}
+
+.grp-btn {
+  float: right;
+}
+
+.table-bordered td,
+.table-bordered th {
+  border: 1px solid #e34230;
+}
+
+.p-mucTV {
+  background: bisque;
+  margin: 0;
+  text-align: center;
+  width: 20px;
+  color: red;
+  margin: 5px;
+}
+
+.div-mucTV {
+  display: flex;
+}
+
+i {
+  color: #31a14c;
+  font-weight: 500;
+}
+
+.btn-apply {
+  margin-right: 5px;
+}

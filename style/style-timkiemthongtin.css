@@ -1,0 +1,37 @@
+h2,
+h3 {
+  text-align: center;
+}
+
+.btnTimKiem {
+  margin: 15px 15px;
+  width: 100%;
+}
+
+.form-control {
+  border-color: #e34230;
+  margin: 15px 0;
+}
+
+hr {
+  background: #e34230;
+  width: 100%;
+}
+
+table {
+  border-color: #e34230;
+}
+
+.col-sm-1 {
+  margin: 10px;
+}
+
+.btnTonVinh {
+  background: #6666cc;
+  color: white;
+}
+
+h4 {
+  vertical-align: inherit;
+  margin: auto 0 auto 15px;
+}

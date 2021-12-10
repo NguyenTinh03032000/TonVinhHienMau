@@ -1,0 +1,19 @@
+.home-items {
+  display: flex;
+  justify-content: space-between;
+}
+.footer-items1 {
+  text-align: left;
+  color: #fff;
+}
+.footer-items2 {
+  text-align: left;
+  margin: auto;
+  color: #fff;
+}
+.footer-items2 img {
+  width: 100px;
+}
+.footer-ul {
+  list-style: none;
+}

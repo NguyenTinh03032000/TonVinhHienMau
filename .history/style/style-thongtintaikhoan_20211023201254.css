@@ -1,0 +1,20 @@
+body > .container-fluid {
+  background-image: url("nen1.png");
+  height: 800px;
+}
+
+.anhnen {
+  width: 40%;
+  margin: auto;
+  display: flex;
+}
+
+.btnUpdate .btn {
+  margin: auto;
+  display: block;
+  background-color: #e34230;
+}
+
+table {
+  font-size: 20px;
+}

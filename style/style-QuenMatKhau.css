@@ -1,0 +1,12 @@
+.btn-danger {
+  margin: auto;
+  display: block;
+  font-size: 25px;
+  border-radius: 6px;
+  width: 100px;
+}
+
+body > .container-fluid {
+  background-image: url("nen1.png");
+  height: 800px;
+}

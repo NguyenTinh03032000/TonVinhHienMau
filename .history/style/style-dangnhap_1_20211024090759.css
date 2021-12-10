@@ -1,0 +1,9 @@
+body > .container-fluid {
+  background-image: url("nen1.png");
+  height: 800px;
+}
+
+.nen {
+  background-image: url("nen1.png");
+  height: 800px;
+}

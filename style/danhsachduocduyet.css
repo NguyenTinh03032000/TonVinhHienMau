@@ -1,0 +1,85 @@
+h1,
+h3 {
+  text-align: center;
+  color: #e34230;
+}
+
+.btnxn {
+  margin: auto;
+  display: flex;
+  background-color: #e34230;
+  color: white;
+  justify-content: center;
+  width: 250px;
+  text-align: center;
+}
+
+.btnxn1 {
+  background-color: #e34230;
+}
+
+.btnThongTin {
+  background-color: #e34230;
+  color: white;
+  margin: auto 15px;
+  width: 250px;
+  text-align: center;
+}
+
+.btnXuLy {
+  justify-content: right;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #e34230;
+}
+
+.border {
+  margin-top: 15px;
+  border-radius: 10px;
+}
+
+table {
+  width: 100%;
+  text-align: center;
+  margin: 20px auto;
+}
+
+.table-bordered td,
+.table-bordered th {
+  border: 1px solid #e34230;
+}
+
+p {
+  margin: 5px auto;
+}
+
+h4 {
+  text-align: left;
+}
+
+#modalCapNhat > p,
+#modalXoa > p {
+  text-align: left;
+}
+.mau {
+  width: 50px;
+  height: 50px;
+  background-color: #e34230;
+}
+.button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button1 {
+  font-size: 10px;
+}

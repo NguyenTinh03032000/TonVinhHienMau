@@ -1,0 +1,97 @@
+.bgnx {
+  margin: 0;
+  background-image: url("bg-QLNhapXuat.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: contain;
+}
+.nav-bg {
+  background-color: white;
+}
+.btn {
+  background-color: #e34230;
+  color: #fff;
+  align-items: center;
+}
+
+.btnimport {
+  width: 254px;
+}
+.donvi {
+  /* margin-top: 40px; */
+  margin-bottom: 40px;
+  /* margin-left: 50px; */
+  background-color: #fbd1d1;
+  width: auto;
+  text-align: center;
+  border: solid 1px;
+  padding: 3px;
+  border: none;
+}
+
+.donvi img {
+  height: 100%;
+  margin: 0;
+  padding-top: 10px;
+}
+.donvi-ten {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+}
+.donvi-ten p {
+  text-transform: uppercase;
+  font-size: 20px;
+  margin: 0;
+}
+.item {
+  margin-bottom: 90px;
+}
+.item-h1 {
+  font-size: 60px;
+}
+.div-icon {
+  display: flex;
+}
+img {
+  margin: 20px;
+}
+/* Mobile & tablet: width < 1024px */
+@media only screen and (max-width: 63.9375em) {
+  /* .nav-bg {
+        background-color: #e34230;
+        color: white;
+    } */
+}
+
+/* Mobile : width <740px */
+@media only screen and (max-width: 46.1875em) {
+  .bg-item {
+    padding: 12px;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+  .item-h1 {
+    font-size: 2rem;
+  }
+  .btnimport {
+    width: 100%;
+  }
+  .donvi {
+    margin-bottom: 20px;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .item {
+    margin-bottom: 20px;
+  }
+  .container1 {
+    display: none;
+  }
+}
+
+/* Tablet : width >= 740px and width < 1024px */
+@media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {
+}
